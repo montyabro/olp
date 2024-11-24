@@ -1,7 +1,8 @@
 ---
-title: Test-title
-description: this is test
+title: 全球气候峰会正式召开：各国承诺减少碳排放
+description: 碳中和-技术
 date: '2024-11-24T09:13:45.681Z'
+lastModified: '2024-11-24T09:14:23.570Z'
 ---
 # 全球气候峰会正式召开：各国承诺减少碳排放
 
